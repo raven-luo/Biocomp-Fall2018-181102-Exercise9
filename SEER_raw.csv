@@ -1,0 +1,55 @@
+Age-Adjusted SEER Incidence Rates
+By Cancer Site
+All Ages  All Races  Both Sexes
+1975-2015  (SEER 9)
+
+"Cancer Site","Year","Rate","Modeled Rate"
+"All Sites","1975",400.4326,395.8757
+"All Sites","1976",407.3953,400.7348
+"All Sites","1977",407.7194,405.6536
+"All Sites","1978",407.2835,410.6328
+"All Sites","1979",412.4893,415.6730
+"All Sites","1980",418.0745,420.7752
+"All Sites","1981",425.2658,425.9400
+"All Sites","1982",424.4722,431.1681
+"All Sites","1983",431.0955,436.4605
+"All Sites","1984",439.9787,441.8178
+"All Sites","1985",448.8782,447.2408
+"All Sites","1986",451.3430,452.7304
+"All Sites","1987",468.1396,458.2874
+"All Sites","1988",464.0130,463.9126
+"All Sites","1989",467.9904,469.6069
+"All Sites","1990",482.1078,482.9024
+"All Sites","1991",503.1229,496.5744
+"All Sites","1992",510.7173,510.6334
+"All Sites","1993",493.5042,498.2806
+"All Sites","1994",483.6784,486.2267
+"All Sites","1995",477.2905,474.4643
+"All Sites","1996",479.5248,479.8070
+"All Sites","1997",486.7988,485.2098
+"All Sites","1998",488.7148,490.6735
+"All Sites","1999",490.9452,489.0713
+"All Sites","2000",486.8970,487.4745
+"All Sites","2001",490.6214,485.8828
+"All Sites","2002",488.4018,484.2963
+"All Sites","2003",476.2469,482.7150
+"All Sites","2004",477.4449,481.1389
+"All Sites","2005",473.5112,479.5679
+"All Sites","2006",477.1989,478.0021
+"All Sites","2007",483.2322,476.4413
+"All Sites","2008",476.7345,474.8857
+"All Sites","2009",475.5945,473.3351
+"All Sites","2010",465.7416,466.2725
+"All Sites","2011",460.4483,459.3153
+"All Sites","2012",447.8527,452.4618
+"All Sites","2013",442.1007,445.7107
+"All Sites","2014",439.8773,439.0602
+"All Sites","2015",436.0259,432.5090
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Incidence source: SEER 9 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, and Atlanta)."
+
